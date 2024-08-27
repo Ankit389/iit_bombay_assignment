@@ -32,7 +32,7 @@ This project demonstrates the power of combining React with Vite for building mo
 
 1. Clone the repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/Ankit389/iit_bombay_assignment.git>
  2. Install dependencies:
 npm install
 
